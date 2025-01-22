@@ -1,0 +1,1 @@
+Solar power forecasting focuses on predicting solar energy generation for upcoming time intervals using predicted weather conditions. Key factors include solar irradiance, ambient temperature, humidity, wind speed, and other relevant environmental parameters.
